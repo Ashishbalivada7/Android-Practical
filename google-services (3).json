@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1019874617136",
+    "project_id": "com-example-countryexplorer",
+    "storage_bucket": "com-example-countryexplorer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019874617136:android:b1d01c1cd78edfeb164af5",
+        "android_client_info": {
+          "package_name": "com.example.countryexplorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019874617136-e4k9m4gkcrmss65acedc3crg2fo2skcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.countryexplorer",
+            "certificate_hash": "98b58dc2f0a693368cdceb563f5a8a165fd3b8b8"
+          }
+        },
+        {
+          "client_id": "1019874617136-gvkn9bdmu0hpq79aj1mmln9708mob06l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDs6J5Ou-xLbsOYtlQUAj7MuLhtb9gq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019874617136-gvkn9bdmu0hpq79aj1mmln9708mob06l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
