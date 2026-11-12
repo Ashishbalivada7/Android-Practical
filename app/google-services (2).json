@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019874617136",
+    "project_id": "com-example-countryexplorer",
+    "storage_bucket": "com-example-countryexplorer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019874617136:android:b1d01c1cd78edfeb164af5",
+        "android_client_info": {
+          "package_name": "com.example.countryexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDs6J5Ou-xLbsOYtlQUAj7MuLhtb9gq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

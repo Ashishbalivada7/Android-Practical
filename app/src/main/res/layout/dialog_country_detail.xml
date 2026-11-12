@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <!-- Flag Image -->
+        <ImageView
+            android:id="@+id/imgDetailFlag"
+            android:layout_width="160dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_horizontal"
+            android:scaleType="fitCenter"
+            android:contentDescription="Country Flag"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Common Name -->
+        <TextView
+            android:id="@+id/txtDetailName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <!-- Official Name -->
+        <TextView
+            android:id="@+id/txtDetailOfficialName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="14sp"
+            android:textColor="@android:color/darker_gray"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Details List -->
+        <TextView
+            android:id="@+id/txtDetailCapital"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingVertical="4dp" />
+
+        <TextView
+            android:id="@+id/txtDetailRegion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingVertical="4dp" />
+
+        <TextView
+            android:id="@+id/txtDetailPopulation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingVertical="4dp" />
+
+        <TextView
+            android:id="@+id/txtDetailCurrencies"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingVertical="4dp" />
+
+        <TextView
+            android:id="@+id/txtDetailLanguages"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingVertical="4dp" />
+
+        <TextView
+            android:id="@+id/txtDetailCode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingVertical="4dp" />
+
+    </LinearLayout>
+</ScrollView>
